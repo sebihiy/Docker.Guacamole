@@ -1,4 +1,4 @@
-# Docker images for Guacamole
+# Docker images for Guacamole Version 1.0
 
 <img src="logo.png" align="right">
 
